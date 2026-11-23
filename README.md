@@ -1,77 +1,82 @@
-# Awesome-RTS-Game-Remastering-Modding
+# 🎮 Awesome-RTS-Game-Remastering-Modding
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome RTS Game Remastering &amp; Modding" width="100%">
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-RTS-Game-Remastering-Modding"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-RTS-Game-Remastering-Modding?style=social&color=white" alt="Repo Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-RTS-Game-Remastering-Modding/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-RTS-Game-Remastering-Modding?style=social&color=white" alt="Repo Forks"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
-## Top RTS Game Remastering & Modding Ecosystem
+## 🚀 Top RTS Game Remastering & Modding Ecosystem
 
 **Curated Developer Directory of SaaS Platforms, Hosted Multiplayer Lobbies & Open-Source RTS Engines**  
 *Comprehensive resource for classic Real-Time Strategy engine reimplementations, source-port remasters, multiplayer netplay matchmakers, community mod loaders, and graphics wrappers (Direct3D 11, Vulkan, DirectDraw).*
 
-**Last updated: November 2026**
+**Last updated: November 2026** 📅
 
 ---
 
-## Overview
+## 📖 Overview
 
-This repository tracks notable **SaaS/hosted multiplayer & modding platforms** and **open-source GitHub projects** for **RTS Game Remastering & Modding**. These tools preserve, modernize, and extend classic Real-Time Strategy (RTS) titles—bringing 64-bit Direct3D 11 / Vulkan rendering, cross-platform Linux/macOS support, enhanced skirmish AI, rollback/lockstep netcode, and mod loaders to iconic games like *Command & Conquer*, *Age of Empires*, *StarCraft*, *Warcraft*, *Total Annihilation*, *Supreme Commander*, and *Dune*.
+This repository tracks notable **SaaS/hosted multiplayer & modding platforms** and **open-source GitHub projects** for **RTS Game Remastering & Modding**. These tools preserve, modernize, and extend classic Real-Time Strategy (RTS) titles—bringing 64-bit Direct3D 11 / Vulkan rendering, cross-platform Linux/macOS support, enhanced skirmish AI, rollback/lockstep netcode, and mod loaders to iconic games like *Command & Conquer*, *Age of Empires*, *StarCraft*, *Warcraft*, *Total Annihilation*, *Supreme Commander*, and *Dune*. ⚔️
 
-Whether you are looking for community multiplayer matchmaking services, official source-port releases under GPLv3, complete game engine rewrites in C++ or C#, or graphics translation wrappers for vintage Windows 95/98 games, this list categorizes the best tools in the ecosystem.
-
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Multiplayer Platforms](#saas--hosted-multiplayer-platforms)
-- [Open-Source RTS Engines & Source Ports](#open-source-rts-engines--source-ports)
-- [Frameworks & Modding Utilities Summary](#frameworks--modding-utilities-summary)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & Licensing](#disclaimer--licensing)
+Whether you are looking for community multiplayer matchmaking services, official source-port releases under GPLv3, complete game engine rewrites in C++ or C#, or graphics translation wrappers for vintage Windows 95/98 games, this list categorizes the best tools in the ecosystem. 🛠️
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
 
-The global PC strategy and RTS gaming market is estimated at **$8.2 billion in 2026**, driven by an active resurgence in competitive nostalgia, high-definition remasters, and user-generated content (UGC). 
-
-The platform and distribution segment is **highly concentrated** (winner-take-all) around dominant PC store fronts and publisher launchers (Valve's Steam and Microsoft/Blizzard's Battle.net), while the community matchmaking and modding landscape remains **moderately fragmented** into passion-driven niche federations (e.g., CnCNet for Westwood titles, FA Forever for Supreme Commander, Voobly for legacy Age of Empires).
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Multiplayer Platforms](#️-saas--hosted-multiplayer-platforms)
+- [💻 Open-Source RTS Engines & Source Ports](#-open-source-rts-engines--source-ports)
+- [🧩 Frameworks & Modding Utilities Summary](#-frameworks--modding-utilities-summary)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer & Licensing](#️-disclaimer--licensing)
 
 ---
 
-## SaaS & Hosted Multiplayer Platforms
+## 📊 Sector Overview & Market Dynamics
 
-The following hosted services and platforms provide commercial game distribution, mod hosting, NAT traversal, low-latency netplay streaming, or dedicated community matchmaking lobbies. 
+The global PC strategy and RTS gaming market is estimated at **$8.2 billion in 2026**, driven by an active resurgence in competitive nostalgia, high-definition remasters, and user-generated content (UGC). 📈
 
-*Table sorted in descending order by parent company valuation / annual revenue:*
+The platform and distribution segment is **highly concentrated** (winner-take-all) around dominant PC store fronts and publisher launchers (Valve's Steam and Microsoft/Blizzard's Battle.net), while the community matchmaking and modding landscape remains **moderately fragmented** into passion-driven niche federations (e.g., CnCNet for Westwood titles, FA Forever for Supreme Commander, Voobly for legacy Age of Empires). 🌐
+
+---
+
+## ☁️ SaaS & Hosted Multiplayer Platforms
+
+The following hosted services and platforms provide commercial game distribution, mod hosting, NAT traversal, low-latency netplay streaming, or dedicated community matchmaking lobbies. 🕹️
+
+*Table sorted in descending order by parent company valuation / annual revenue:* 🏢
 
 | Platform | Parent Company / Operator | Valuation / Annual Revenue | Starting Tier Pricing | Free Tier Limit | Highlights & RTS Capabilities |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Battle.net](https://blizzard.com)** | Microsoft / Activision Blizzard | **$3.1 Trillion** (Microsoft Market Cap) | $19.99 one-time (e.g. StarCraft: Remastered base game purchase) | Free account forever; unmetered access to StarCraft II: Wings of Liberty campaign, custom arcade maps & unranked co-op commander mode up to level 5 | Proprietary master matchmaking and patch distribution network powering StarCraft: Remastered, StarCraft II, and Warcraft III: Reforged custom maps. |
-| **[Steamworks & Steam Remote Play](https://steampowered.com)** | Valve Corporation | **$8.5 Billion** (Est. Annual Revenue) / ~$16B Valuation | $100.00 one-time Steam Direct app submission deposit per published game | Free account forever; 0-cost Steam Remote Play Together multiplayer streaming for remote friends; unlimited Workshop mod downloads and subscriptions | Valve's PC gaming platform, mod distribution (Steam Workshop), and peer-to-peer game streaming allowing remote friends to play split-screen/local LAN RTS titles over the internet. |
-| **[GOG Galaxy](https://gog.com)** | CD Projekt Group | **$2.8 Billion** (Market Cap) | $5.99 one-time (typical catalog price for retro RTS titles) | Free account forever; cloud saves, manual offline installer downloads, and rollback game versioning without mandatory client runtime | DRM-free digital distribution platform with optional cloud saves, rollback versioning, and multiplayer matchmaking for classic PC strategy titles. |
-| **[Parsec Cloud & Gaming](https://parsec.app)** | Unity Technologies / Parsec | **$7.5 Billion** (Unity Market Cap) | $8.00 / user / month (Parsec Warp tier) | Free forever plan; 1 active ultra-low latency 60 FPS P2P desktop session with up to 4 simultaneous guest controllers / keyboard inputs | Ultra-low-latency desktop and interactive game streaming platform widely used for retro RTS local-LAN netplay sessions with remote players. |
-| **[Mod DB](https://www.moddb.com/)** | DBolical Pty Ltd | **$12 Million** (Est. Valuation) | $5.00 / month (Mod DB Supporter / Ad-Free subscription tier) | Free forever plan; unlimited mod uploads, version downloads, community mod hosting, forum participation, and public news showcases | The web's largest dedicated modding database for total conversions, engine patches, custom maps, and indie RTS remaster releases. |
-| **[GameRanger](https://gameranger.com)** | Scott Kevill / GameRanger Pty Ltd | **$3.5 Million** (Est. Valuation) | $19.95 / year (GameRanger Silver Tier) | Free forever plan; basic chat lobbies, NAT traversal, and peer-to-peer matchmaking for over 700 legacy PC/Mac RTS games | Long-running matchmaking and NAT-traversal lobby service keeping alive classic RTS titles whose official master servers were permanently retired. |
-| **[Voobly](https://voobly.com)** | Voobly Community Network | **$2.0 Million** (Est. Valuation) | $5.00 / month (Voobly Bronze Membership tier) | Free forever plan; standard matchmaking rooms, peer-to-peer multiplayer lobbies, anti-cheat detection, and basic ladder tracking | Veteran peer-to-peer multiplayer client and ladder platform hosting Age of Empires II, Age of Mythology, and Rise of Nations mods and competitive tournaments. |
-| **[CnCNet](https://cncnet.org)** | CnCNet Open Community | **Non-Profit / Community-Funded** (Open Collective ~$15K/yr) | $0.00 / month (100% Free / Voluntary Open Collective donations) | Free forever plan; completely unmetered custom match hosting, peer-to-peer tunnel server routing, and integrated auto-updater | Dedicated community-run multiplayer lobby and patched client network keeping Command & Conquer (Tiberian Dawn, Red Alert, Tiberian Sun, Yuri's Revenge) active online. |
-| **[FA Forever (Forged Alliance Forever)](https://faforever.com)** | FAF Community Association | **Non-Profit / Community-Funded** (Patreon ~$25K/yr) | $0.00 / month (100% Free / Voluntary Patreon sponsorships) | Free forever plan; unmetered ranked matchmaking, automated map & mod vault synchronization, replay streaming, and patch distribution | Community-operated tournament matchmaker, replay vault, custom balance patcher, and mod manager for Supreme Commander: Forged Alliance. |
+| **[Battle.net](https://blizzard.com)** | 🏢 Microsoft / Activision Blizzard | **$3.1 Trillion** (Microsoft Market Cap) | $19.99 one-time (e.g. StarCraft: Remastered base game purchase) | Free account forever; unmetered access to StarCraft II: Wings of Liberty campaign, custom arcade maps & unranked co-op commander mode up to level 5 | Proprietary master matchmaking and patch distribution network powering StarCraft: Remastered, StarCraft II, and Warcraft III: Reforged custom maps. |
+| **[Steamworks & Steam Remote Play](https://steampowered.com)** | 🏢 Valve Corporation | **$8.5 Billion** (Est. Annual Revenue) / ~$16B Valuation | $100.00 one-time Steam Direct app submission deposit per published game | Free account forever; 0-cost Steam Remote Play Together multiplayer streaming for remote friends; unlimited Workshop mod downloads and subscriptions | Valve's PC gaming platform, mod distribution (Steam Workshop), and peer-to-peer game streaming allowing remote friends to play split-screen/local LAN RTS titles over the internet. |
+| **[GOG Galaxy](https://gog.com)** | 🏢 CD Projekt Group | **$2.8 Billion** (Market Cap) | $5.99 one-time (typical catalog price for retro RTS titles) | Free account forever; cloud saves, manual offline installer downloads, and rollback game versioning without mandatory client runtime | DRM-free digital distribution platform with optional cloud saves, rollback versioning, and multiplayer matchmaking for classic PC strategy titles. |
+| **[Parsec Cloud & Gaming](https://parsec.app)** | 🏢 Unity Technologies / Parsec | **$7.5 Billion** (Unity Market Cap) | $8.00 / user / month (Parsec Warp tier) | Free forever plan; 1 active ultra-low latency 60 FPS P2P desktop session with up to 4 simultaneous guest controllers / keyboard inputs | Ultra-low-latency desktop and interactive game streaming platform widely used for retro RTS local-LAN netplay sessions with remote players. |
+| **[Mod DB](https://www.moddb.com/)** | 🏢 DBolical Pty Ltd | **$12 Million** (Est. Valuation) | $5.00 / month (Mod DB Supporter / Ad-Free subscription tier) | Free forever plan; unlimited mod uploads, version downloads, community mod hosting, forum participation, and public news showcases | The web's largest dedicated modding database for total conversions, engine patches, custom maps, and indie RTS remaster releases. |
+| **[GameRanger](https://gameranger.com)** | 🏢 Scott Kevill / GameRanger Pty Ltd | **$3.5 Million** (Est. Valuation) | $19.95 / year (GameRanger Silver Tier) | Free forever plan; basic chat lobbies, NAT traversal, and peer-to-peer matchmaking for over 700 legacy PC/Mac RTS games | Long-running matchmaking and NAT-traversal lobby service keeping alive classic RTS titles whose official master servers were permanently retired. |
+| **[Voobly](https://voobly.com)** | 🌐 Voobly Community Network | **$2.0 Million** (Est. Valuation) | $5.00 / month (Voobly Bronze Membership tier) | Free forever plan; standard matchmaking rooms, peer-to-peer multiplayer lobbies, anti-cheat detection, and basic ladder tracking | Veteran peer-to-peer multiplayer client and ladder platform hosting Age of Empires II, Age of Mythology, and Rise of Nations mods and competitive tournaments. |
+| **[CnCNet](https://cncnet.org)** | 🌐 CnCNet Open Community | **Non-Profit / Community-Funded** (Open Collective ~$15K/yr) | $0.00 / month (100% Free / Voluntary Open Collective donations) | Free forever plan; completely unmetered custom match hosting, peer-to-peer tunnel server routing, and integrated auto-updater | Dedicated community-run multiplayer lobby and patched client network keeping Command & Conquer (Tiberian Dawn, Red Alert, Tiberian Sun, Yuri's Revenge) active online. |
+| **[FA Forever (Forged Alliance Forever)](https://faforever.com)** | 🌐 FAF Community Association | **Non-Profit / Community-Funded** (Patreon ~$25K/yr) | $0.00 / month (100% Free / Voluntary Patreon sponsorships) | Free forever plan; unmetered ranked matchmaking, automated map & mod vault synchronization, replay streaming, and patch distribution | Community-operated tournament matchmaker, replay vault, custom balance patcher, and mod manager for Supreme Commander: Forged Alliance. |
 
 ---
 
-## Open-Source RTS Engines & Source Ports
+## 💻 Open-Source RTS Engines & Source Ports
 
-Active open-source RTS engine reimplementations, original RTS titles, EA source-code ports, graphics wrappers, and mod loaders.
+Active open-source RTS engine reimplementations, original RTS titles, EA source-code ports, graphics wrappers, and mod loaders. ⚡
 
-*Table sorted in descending order by GitHub stargazers count:*
+*Table sorted in descending order by GitHub stargazers count:* ⭐
 
 | Repository | GitHub Stars | Primary Language | Highlights & Modernization Capabilities |
 | :--- | :--- | :--- | :--- |
@@ -109,31 +114,49 @@ Active open-source RTS engine reimplementations, original RTS titles, EA source-
 
 ---
 
-## Frameworks & Modding Utilities Summary
+## 🧩 Frameworks & Modding Utilities Summary
 
-- **Want to build a standalone modern RTS or Total Conversion?**
+- **Want to build a standalone modern RTS or Total Conversion?** 🛠️
   - Choose **[OpenRA](https://github.com/OpenRA/OpenRA)** for 2D/2.5D isometric gameplay with proven rollback and multiplayer lobbies.
   - Choose **[Beyond All Reason / Recoil Engine](https://github.com/beyond-all-reason/Beyond-All-Reason)** or **[Spring Engine](https://github.com/spring/spring)** for true 3D environments, physics simulations, and massive unit counts.
   - Choose **[0 A.D.](https://github.com/0ad/0ad)** for historical simulation RTS with complex citizen-soldier mechanics and integrated map editing.
 
-- **Want to run classic 90s/2000s strategy games on Windows 11, macOS, or Linux?**
+- **Want to run classic 90s/2000s strategy games on Windows 11, macOS, or Linux?** 🖥️
   - Use **[cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw)** for instant DirectDraw/DirectX compatibility, windowed scaling, and crash fixes.
   - Use **[CnCNet](https://cncnet.org)** or **[GameRanger](https://gameranger.com)** to play online through community tunnel servers.
   - Use **[Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer)** or **[CnCGeneralsZH-Reforged](https://github.com/olcayseygan/CnCGeneralsZH-Reforged)** for native 64-bit and Direct3D 11 compilation.
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-1. Fork this repository.
-2. Add your entry in alphabetical or categorized order matching the table format above.
-3. Verify that all URLs, star badge parameters, and descriptions are accurate and non-promotional.
-4. Open a Pull Request detailing the changes and reason for addition.
+1. Fork this repository. 🍴
+2. Add your entry in alphabetical or categorized order matching the table format above. 📝
+3. Verify that all URLs, star badge parameters, and descriptions are accurate and non-promotional. 🔍
+4. Open a Pull Request detailing the changes and reason for addition. 🚀
 
 ---
 
-## Disclaimer & Licensing
+## 💖 Support
 
-- This is a community-curated list compiled for educational, preservation, and modding research purposes.
-- Most engine reimplementations (e.g. *OpenRA*, *Vanilla-Conquer*, *OpenAge*, *OpenDUNE*) do not distribute copyrighted proprietary art, music, or campaign assets; players must provide legally purchased original game archives (`.mix`, `.big`, `.drs`, `.wad`).
-- Electronic Arts, Westwood Studios, Blizzard Entertainment, Microsoft, and other brand names are trademarks of their respective owners.
+Thank you for exploring this curated repository! If you find this project valuable for your modding journeys, engine development, or RTS nostalgia, please consider supporting us:
+
+- ⭐ **Star this repository** to help others discover it on GitHub!
+- 🍴 **Fork and contribute** your favorite modern RTS engine projects and modding tools.
+- 📢 **Share with fellow strategists** across Reddit, Discord, and Mod DB communities.
+- ☕ **Buy us a coffee** and support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-RTS-Game-Remastering-Modding&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-RTS-Game-Remastering-Modding&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-RTS-Game-Remastering-Modding&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-RTS-Game-Remastering-Modding&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer & Licensing
+
+- This is a community-curated list compiled for educational, preservation, and modding research purposes. 📜
+- Most engine reimplementations (e.g. *OpenRA*, *Vanilla-Conquer*, *OpenAge*, *OpenDUNE*) do not distribute copyrighted proprietary art, music, or campaign assets; players must provide legally purchased original game archives (`.mix`, `.big`, `.drs`, `.wad`). 🔒
+- Electronic Arts, Westwood Studios, Blizzard Entertainment, Microsoft, and other brand names are trademarks of their respective owners. 🏷️
